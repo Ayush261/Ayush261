@@ -1,4 +1,5 @@
 ### Hello World, I'm Ayush 👋
+<img align='right' src="https://user-images.githubusercontent.com/56497549/105896774-4281b380-603d-11eb-86a7-a7d33ed7244c.png" width="400" height="320">
 
 I am a final year student at UPES, Dehradun, pursuing my Bachelors in Computer Science.<br>
 And also an optimisitic, curious and well-focused developer. :sparkles: <br>
