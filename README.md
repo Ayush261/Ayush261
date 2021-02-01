@@ -1,4 +1,4 @@
-### Hello Amico, I'm Ayush 👋 
+### Hello Everyone, I'm Ayush 👋 
 <img src ="https://user-images.githubusercontent.com/56497549/103688315-a9202e00-4fb7-11eb-8c1f-60775759bb81.gif" width="70" height="70">
 <img align='right' src="https://user-images.githubusercontent.com/56497549/105896774-4281b380-603d-11eb-86a7-a7d33ed7244c.png" width="400" height="320">
 
@@ -14,7 +14,7 @@ And also an optimisitic, curious and well-focused developer. :sparkles: <br>
   </a>
 
 <a href="https://www.linkedin.com/in/ayush-singh-747194195//">
-  <img align="left" alt="Priyanka's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+  <img align="left" alt="Ayush's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
 <br>
 
